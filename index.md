@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+Cristiana Brasil Maia
+Eu me formei em Engenharia Mecânica em 1997 pela Universidade Federal de Minas Gerais (UFMG), tendo recebido o prêmio Agnelo Macedo (Medalha de Ouro), pela classificação em Primeiro Lugar no Curso. Em 2000, recebi o título de mestre em Engenharia Mecânica pela UFMG, área de concentração Calor e Fluidos, com o título: Elaboração de uma Metodologia Numérica para a Análise de Chaminés Solares: Estudo da Influência de Parâmetros geométricos. Em 2005, recebi o título de Doutor em Engenharia Mecânica pela UFMG, área de concentração Calor e Fluidos, com o título Análise Teórica e Experimental de uma Chaminé Solar: Avaliação Termofluidodinâmica. No ano de 2001, iniciei a minha carreira de docente na Pontifícia Universidade Católica de Minas Gerais (PUC Minas). No período de 2005 a 2007, lecionei também na Fundação Universidade de Itaúna. No ano de 2008, comecei a lecionar no Programa de Pós-graduação em Engenharia Mecânica (PPGEM) da PUC Minas. Em 2012, passei a ser membro do Colegiado do PPGEM e, desde agosto de 2016, assumi a coordenação do curso. Bolsista de Produtividade em Pesquisa do CNPq, Nível 2, desde 2016.
 
-You can use the [editor on GitHub](https://github.com/cristianabrasilmaia/teste/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cristianabrasilmaia/teste/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Áreas de interesse
+Tenho interesse na área de Engenharia Mecânica, com ênfase em sistemas térmicos e fluidos. Minhas linhas de pesquisa atuais são energia solar, chaminé solar, secagem solar, túnel de vento e Dinâmica dos Fluidos Computacional (CFD).
