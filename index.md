@@ -6,6 +6,4 @@ Tenho interesse na área de Engenharia Mecânica, com ênfase em sistemas térmi
 
 ##contador.md
 
-##counter.php
-
-[Visitas](/counter.php)
+[Visitas](/contador.md)
